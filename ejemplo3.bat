@@ -19,7 +19,6 @@ ping -n 3 localhost>nul
 cls
  echo.
 echo.
-echo Counting 2..
 echo ----------------------------------
 echo eleminando al 70
 echo ----------------------------------
@@ -28,7 +27,6 @@ ping -n 3 localhost >nul
 cls
 echo.
 echo.
-echo Counting 3...
 echo ----------------------------------
 echo eleminando al 100
 echo ----------------------------------
