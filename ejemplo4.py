@@ -1,4 +1,3 @@
-import os
 from shutil import rmtree
 
 ruta = "C:\$RECYCLE.BIN"

@@ -1,4 +1,6 @@
 @echo off
+mode 100,100
+title Mi segundo Script
 echo.
 echo ----------------------------------------------
 echo -                                            -

@@ -1,4 +1,6 @@
 @echo off
+mode 100,100
+title Mi tercer Script
 echo.
 echo ----------------------------------------------
 echo -                                            -
